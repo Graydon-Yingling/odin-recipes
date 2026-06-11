@@ -1,0 +1,44 @@
+/*Stylesheet*/
+
+body {
+    background-color: lightsalmon;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    color: black;
+}
+
+.home-links {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.center-link {
+    margin-right: 300px;
+    margin-left: 240px;
+}
+
+.ingredients-list {
+    display: inline-block;
+}
+
+.steps-list {
+    display: inline-block;
+    margin-left: 200px;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.homepage-link {
+    margin-top: 100px;
+    display: block;
+}
